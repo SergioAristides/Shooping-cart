@@ -1,0 +1,12 @@
+:root{
+  --blue-primary:#9fcdd3;
+  --second-color:#8E8E8E;
+}
+
+button{
+  background-color: var(--blue-primary);
+  border-color: var(--blue-primary);
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 3rem;
+}
